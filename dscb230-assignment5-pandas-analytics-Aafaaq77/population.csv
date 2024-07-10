@@ -1,0 +1,1004 @@
+City,Population
+Des Moines,215636.0
+Cedar Rapids,132301.0
+Davenport,102169.0
+Sioux City,82531.0
+Iowa City,7495.0
+Waterloo,67912.0
+Ames,66023.0
+West Des Moines,65606.0
+Council Bluffs,62355.0
+Ankeny,61938.0
+Dubuque,58196.0
+Urbandale,43441.0
+Cedar Falls,40983.0
+Marion,39328.0
+Bettendorf,35919.0
+Mason City,272.0
+Marshalltown,27053.0
+Clinton,25416.0
+Burlington,24974.0
+Ottumwa,24545.0
+Fort Dodge,24278.0
+Muscatine,23774.0
+Johnston,21406.0
+Coralville,21103.0
+Waukee,20785.0
+North Liberty,18829.0
+Altoona,18458.0
+Clive,17167.0
+Indianola,15802.0
+Newton,15164.0
+Grimes,12839.0
+Boone,12487.0
+Oskaloosa,11511.0
+Spencer,11052.0
+Norwalk,10978.0
+Storm Lake,10558.0
+Fort Madison,10513.0
+Keokuk,10324.0
+Fairfield,1029.0
+Pella,10231.0
+Waverly,10094.0
+Le Mars,9941.0
+Carroll,9904.0
+Pleasant Hill,9871.0
+Grinnell,9031.0
+Mount Pleasant,8581.0
+Denison,8337.0
+Creston,7784.0
+Webster City,7732.0
+Decorah,7701.0
+Perry,7599.0
+Clear Lake,7597.0
+Sioux Center,7534.0
+Charles City,7396.0
+Hiawatha,7333.0
+Washington,7313.0
+Knoxville,7192.0
+Nevada,6754.0
+Atlantic,6669.0
+Eldridge,6529.0
+Bondurant,6191.0
+Orange City,6127.0
+Independence,6056.0
+Maquoketa,601.0
+Oelwein,5979.0
+Estherville,5796.0
+Asbury,5557.0
+Anamosa,5476.0
+Centerville,5458.0
+Algona,5447.0
+Clarinda,5388.0
+Red Oak,5362.0
+Glenwood,5326.0
+Winterset,526.0
+DeWitt,5203.0
+Sheldon,5128.0
+Iowa Falls,5122.0
+Osceola and Vinton,5103.0
+Spirit Lake,5069.0
+Manchester,5019.0
+Windsor Heights,4953.0
+Cherokee,492.0
+Shenandoah,4897.0
+Harlan,4845.0
+Sergeant Bluff,4798.0
+Evansdale,4765.0
+Polk City,4625.0
+Adel,4588.0
+Humboldt,4583.0
+Mount Vernon,4451.0
+Camanche,4334.0
+Hampton,4231.0
+Carlisle,4162.0
+Chariton,4149.0
+Jefferson,4137.0
+Dyersville,413.0
+Saylorville,4009.0
+Le Claire,3971.0
+Forest City,3928.0
+Monticello,3837.0
+Rock Valley,3812.0
+Carter Lake,3796.0
+Huxley,3769.0
+Cresco,3768.0
+West Liberty,3757.0
+Emmetsburg,3728.0
+Albia,3727.0
+Waukon,3671.0
+Osage,3568.0
+Robins,3457.0
+Eagle Grove,3429.0
+New Hampton,3421.0
+Story City,3377.0
+Tiffin,3351.0
+Tipton,3207.0
+Williamsburg,3152.0
+Garner,3059.0
+Milford,3004.0
+West Burlington,2927.0
+Wilton,2843.0
+Hawarden,2836.0
+Park View,2818.0
+Jesup,2806.0
+Onawa,2804.0
+Tama,2769.0
+Clarion,2754.0
+La Porte City,2743.0
+Fairfax,268.0
+Grundy Center,2675.0
+Bloomfield,2658.0
+Eldora,2645.0
+Missouri Valley,264.0
+Solon,2615.0
+Sibley,2611.0
+Madrid,2578.0
+Lamoni,2554.0
+Postville,2547.0
+Rock Rapids,2545.0
+West Union,2545.0
+Center Point,2543.0
+Kalona,252.0
+Lisbon,2493.0
+Marengo,2483.0
+Belle Plaine,2477.0
+Belmond,2466.0
+Hudson,2375.0
+Mitchellville,2365.0
+Toledo,2303.0
+Northwood,2297.0
+Rockwell City,2258.0
+West Branch,2249.0
+Columbus Junction,2229.0
+Ely,2227.0
+Sumner,2175.0
+Bellevue,2157.0
+New London,2128.0
+Cascade,2113.0
+Prairie City,2091.0
+Hull,2089.0
+Lake Mills,2067.0
+Mount Ayr,2056.0
+Alta,2039.0
+Wapello,2005.0
+Sac City,2001.0
+Ida Grove,2.0
+Atkins,1991.0
+Audubon,1991.0
+Epworth,1967.0
+Parkersburg,194.0
+Peosta,191.0
+Britt,1893.0
+Durant,188.0
+Ogden,1875.0
+Leon,1868.0
+Sigourney,1867.0
+Manson,1867.0
+Pleasantville,1859.0
+Colfax,1839.0
+Remsen,1833.0
+Ackley,1816.0
+Moville,1812.0
+Mediapolis,1795.0
+Lake City,1764.0
+Granger,1756.0
+Monroe,1733.0
+Greenfield,173.0
+Denver,1726.0
+Brooklyn,1703.0
+Hartley,1695.0
+Guttenberg,1683.0
+Guthrie Center,1678.0
+Walcott,1672.0
+State Center,1661.0
+Monona,1635.0
+Corydon,1628.0
+Reinbeck,161.0
+Kingsley,1593.0
+Farley,1592.0
+Akron,1588.0
+Slater,1585.0
+Sanborn,1582.0
+Corning,1577.0
+Pocahontas,1574.0
+Stuart,1573.0
+Blue Grass,1568.0
+Logan,1568.0
+Oakland,1567.0
+Manning,1565.0
+Traer,1547.0
+Nora Springs,1535.0
+Urbana,1517.0
+Dallas Center,1515.0
+Bedford,1513.0
+Nashua,1506.0
+Woodbine,1488.0
+Strawberry Point,1462.0
+Shell Rock,1445.0
+Lenox,1437.0
+Avoca,1413.0
+Roland,1408.0
+Manly,1396.0
+Dysart,1391.0
+Walford,1385.0
+Elkader,1376.0
+Earlham,135.0
+Clarksville,1347.0
+Montezuma,1338.0
+Alton,1336.0
+Wellman,1321.0
+Lone Tree,1312.0
+Tripoli,1302.0
+Dike,1294.0
+Holstein,1294.0
+Central City,128.0
+Coon Rapids,1263.0
+Tabor,1257.0
+Fairbank,1249.0
+Woodward,1243.0
+Villisca,1243.0
+Van Meter,1239.0
+Marcus,1233.0
+Lake Park,123.0
+Panora,1228.0
+Laurens,1228.0
+Eddyville,1226.0
+Sloan,1215.0
+Hamburg,1214.0
+Griswold,1191.0
+Sheffield,119.0
+George,1188.0
+Jewell,1187.0
+Anita,1185.0
+Buffalo,1182.0
+Melcher-Dallas,116.0
+University Heights,1159.0
+St. Ansgar,1159.0
+New Sharon,1144.0
+Glidden,1131.0
+Mechanicsville,1126.0
+Fredericksburg,1124.0
+Riverside,1115.0
+Mapleton,1114.0
+Fayette,1113.0
+Allison,1109.0
+Lawton,1105.0
+Princeton,1102.0
+Winfield,1101.0
+Springville,1092.0
+North English,1087.0
+Conrad,1083.0
+Lake View,1067.0
+Sidney,1067.0
+Wayland,1066.0
+Dunlap,1059.0
+Palo,1044.0
+Donnellson,1039.0
+Fruitland,1036.0
+Newhall,1029.0
+Larchwood,1027.0
+Greene,1026.0
+De Soto,1025.0
+Treynor,1022.0
+Malvern,1015.0
+Gilbert,1013.0
+Elk Run Heights,1009.0
+Arnolds Park,1009.0
+Calmar,1009.0
+Baxter,1004.0
+Beaverdale,1002.0
+Preston,1.0
+Long Grove,994.0
+Eldon,990.0
+Le Grand,990.0
+Neola,990.0
+Colo,984.0
+Danville,984.0
+Gladbrook,982.0
+Janesville,981.0
+Inwood,978.0
+Clarence,975.0
+Aplington,968.0
+Shellsburg,959.0
+Keota,958.0
+Paullina,953.0
+Keosauqua,951.0
+Graettinger,940.0
+Winthrop,926.0
+Van Horne,926.0
+Gowrie,923.0
+Lakeside,917.0
+Merrill,917.0
+Odebolt,915.0
+Newell,909.0
+Buffalo Center,901.0
+Manilla,895.0
+West Point,892.0
+Riceville,889.0
+Rockwell,888.0
+Swisher,887.0
+Aurelia,883.0
+Primghar,882.0
+Armstrong,880.0
+Lansing,880.0
+Lowden,874.0
+Boyden,872.0
+Fremont,869.0
+Cambridge,868.0
+Ventura,865.0
+McGregor,861.0
+Lake Panorama,860.0
+Alden,859.0
+Gilbertville,859.0
+Afton,858.0
+Schleswig,857.0
+Milo,856.0
+Underwood,854.0
+Dakota City,846.0
+Kanawha,845.0
+Dunkerton,845.0
+Melbourne,843.0
+Montrose,837.0
+Sioux Rapids,833.0
+Walker,831.0
+Sully,828.0
+Garnavillo,826.0
+Whiting,825.0
+Okoboji,819.0
+Rockford,818.0
+Hinton,813.0
+Oxford,812.0
+Ossian,808.0
+Correctionville,807.0
+Exira,804.0
+Victor,796.0
+Hospers,788.0
+Maxwell,784.0
+Morning Sun,783.0
+Hills,780.0
+Readlyn,780.0
+Olin,779.0
+Middle Amana,778.0
+Essex,777.0
+Hartford,775.0
+Hazleton,775.0
+Earlville,774.0
+Shueyville,772.0
+Dayton,767.0
+Walnut,764.0
+Grand Junction,763.0
+Hubbard,761.0
+What Cheer,756.0
+Ruthven,751.0
+Adair,750.0
+Ireton,749.0
+Battle Creek,748.0
+Wellsburg,737.0
+Murray,733.0
+Wall Lake,731.0
+Coggon,725.0
+Batavia,724.0
+Brighton,723.0
+Coalville,722.0
+Carson,721.0
+Schaller,720.0
+Wheatland,715.0
+Bancroft,714.0
+St. Charles,709.0
+Early,705.0
+Doon,704.0
+Blairstown,703.0
+New Hartford,703.0
+Klemme,702.0
+Alburnett,697.0
+Raymond,691.0
+Elkhart,688.0
+Minden,677.0
+Farmington,675.0
+Goldfield,672.0
+Fontanelle,660.0
+Swea City,660.0
+West Bend,659.0
+Stanwood,655.0
+Shelby,651.0
+Anthon,649.0
+Agency,648.0
+Washburn,643.0
+Beacon,639.0
+Radcliffe,633.0
+Everly,632.0
+Stanton,629.0
+Elgin,628.0
+Grand Mound,628.0
+Charter Oak,624.0
+Lovilia,623.0
+Edgewood,622.0
+Redfield,622.0
+Stratford,616.0
+Hopkinton,616.0
+Moulton,613.0
+Moravia,611.0
+Birmingham,607.0
+Dexter,606.0
+Dumont,601.0
+Crescent,599.0
+Richland,595.0
+Russell,593.0
+Keystone,590.0
+Conesville,589.0
+Dows,580.0
+Fonda,578.0
+Quasqueton,578.0
+Ainsworth,577.0
+Rolfe,572.0
+Kellogg,571.0
+Albion,570.0
+Sutherland,568.0
+Seymour,567.0
+Clermont,566.0
+Albert City,564.0
+New Albin,563.0
+Scranton,558.0
+Maharishi Vedic City,544.0
+Maynard,543.0
+Lamont,540.0
+Elliott,539.0
+Elk Horn,536.0
+Elma,536.0
+Zearing,534.0
+Vail,532.0
+Hedrick,531.0
+Garwin,530.0
+Rudd,519.0
+Norway,518.0
+Plainfield,517.0
+Delmar,514.0
+Ocheyedan,514.0
+Burt,512.0
+Ellsworth,510.0
+Gilman,509.0
+Lime Springs,508.0
+Arcadia,507.0
+Pomeroy,506.0
+Ringsted,499.0
+Ashton,498.0
+Allerton,497.0
+Whittemore,497.0
+Salem,494.0
+Latimer,492.0
+Emerson,491.0
+Sabula,491.0
+Galva,491.0
+Delhi,487.0
+Dow City,485.0
+Humeston,484.0
+Truro,483.0
+Milton,481.0
+Runnells,481.0
+Titonka,481.0
+Martensdale,478.0
+Riverdale,477.0
+Collins,477.0
+Spillville,474.0
+Stacyville,472.0
+Lynnville,471.0
+Orleans,469.0
+New Market,469.0
+Pierson,468.0
+Orient,467.0
+New Virginia,465.0
+Lost Nation,461.0
+Colesburg,460.0
+Bonaparte,459.0
+Arlington,454.0
+Badger,454.0
+Terril,454.0
+Churdan,453.0
+Andrew,451.0
+Worthington,449.0
+Plymouth,447.0
+Wyoming,445.0
+Oxford Junction,442.0
+Otho,442.0
+Lockridge,442.0
+Breda,440.0
+Little Rock,440.0
+Farragut,434.0
+McCallsburg,434.0
+Libertyville,433.0
+Hawkeye,430.0
+Grandview,430.0
+University Park,429.0
+Denmark,429.0
+Calamus,426.0
+Miles,422.0
+Gilmore City,422.0
+Lewis,420.0
+Bussey,420.0
+Ryan,418.0
+Bertram,414.0
+Thornton,411.0
+Diagonal,411.0
+Farnhamville,410.0
+Salix,410.0
+Peterson,407.0
+Stanhope,405.0
+Lorimor,405.0
+McCausland,403.0
+New Vienna,402.0
+Bayard,399.0
+Middletown,397.0
+Marquette,396.0
+Wahpeton,396.0
+Holiday Lake,396.0
+Bennett,393.0
+Alleman,393.0
+Stockport,393.0
+Cumming,392.0
+Protivin,391.0
+Atalissa,388.0
+Quimby,388.0
+Lawler,387.0
+Callender,386.0
+Casey,385.0
+Clearfield,383.0
+Thompson,382.0
+Livermore,381.0
+Union,380.0
+Lehigh,379.0
+Donahue,378.0
+Danbury,376.0
+Letts,375.0
+Nichols,374.0
+Fort Atkinson,372.0
+Earling,370.0
+Garrison,368.0
+Menlo,365.0
+Lohrville,365.0
+Pulaski,364.0
+Mystic,364.0
+Williams,364.0
+Wesley,362.0
+Pacific Junction,361.0
+Holy Cross,361.0
+Crawfordsville,353.0
+Mondamin,352.0
+Delta,350.0
+Frederika,346.0
+Columbus City,345.0
+Minburn,344.0
+Irwin,344.0
+Cincinnati,340.0
+Amana,338.0
+Granville,336.0
+Floyd,335.0
+Sheldahl,334.0
+Lakota,328.0
+Modale,327.0
+Charlotte,323.0
+Marble Rock,321.0
+Templeton,319.0
+Lacona,318.0
+Royal,316.0
+Massena,314.0
+Cantril,314.0
+Persia,313.0
+Diamondhead Lake,312.0
+Brandon,312.0
+West Okoboji,309.0
+Duncombe,309.0
+Harcourt,308.0
+Farmersburg,307.0
+Mingo,301.0
+South English,300.0
+Dundee,299.0
+Ute,298.0
+Lu Verne,296.0
+Kiron,295.0
+Fredonia,294.0
+Fertile,293.0
+Kellerton,291.0
+Maurice,291.0
+Bagley,291.0
+Bode,289.0
+Kelley,288.0
+Deloit,287.0
+Packwood,286.0
+Fenton,286.0
+Low Moor,284.0
+Steamboat Rock,283.0
+Jamaica,282.0
+Arthur,282.0
+Halbur,281.0
+Kensett,279.0
+Lester,278.0
+Lytton,275.0
+Renwick,274.0
+Liscomb,274.0
+Kimballton,273.0
+Henderson,272.0
+Rowley,272.0
+Chelsea,272.0
+Barnes City,269.0
+Westside,269.0
+Ionia,269.0
+Conroy,268.0
+New Providence,267.0
+Melvin,266.0
+Yale,265.0
+Leland,265.0
+Malcom,262.0
+Dedham,261.0
+Pisgah,261.0
+Ackworth,261.0
+Riverton,261.0
+Luxemburg,261.0
+Rhodes,260.0
+Greeley,260.0
+Lineville,259.0
+Macedonia,258.0
+Ridgeway,256.0
+Ladora,255.0
+Hornick,255.0
+Montour,254.0
+Holland,253.0
+Calumet,253.0
+Joice,249.0
+College Springs,249.0
+Onslow,248.0
+Blakesburg,248.0
+Wadena,248.0
+Barnum,246.0
+Wallingford,244.0
+Keswick,241.0
+Alta Vista,241.0
+Silver City,241.0
+Harpers Ferry,241.0
+Lambs Grove,237.0
+Deep River,236.0
+Twin Lakes,235.0
+Davis City,235.0
+Luana,235.0
+Bronson,234.0
+Rippey,233.0
+Woolstock,232.0
+Martelle,232.0
+Crystal Lake,230.0
+Coulter,229.0
+Grafton,225.0
+Mineola,224.0
+Westgate,224.0
+Sherrill,223.0
+Waucoma,223.0
+Corwith,222.0
+Leighton,221.0
+Parnell,221.0
+Superior,221.0
+Alvord,220.0
+Sun Valley Lake,220.0
+Mallard,219.0
+Laurel,219.0
+Grand River,219.0
+Dickens,212.0
+Cleghorn,212.0
+Blencoe,211.0
+Fostoria,211.0
+Soldier,210.0
+Oakville,210.0
+Burr Oak,209.0
+Thor,208.0
+La Motte,208.0
+Goose Lake,207.0
+Moorland,207.0
+Ollie,207.0
+Webb,207.0
+Marathon,207.0
+Monmouth,205.0
+Lone Rock,205.0
+Beaman,204.0
+Panama,204.0
+Defiance,204.0
+Hillsboro,202.0
+Auburn,202.0
+Hancock,202.0
+Randolph,201.0
+Smithland,200.0
+Olds,200.0
+Kirkville,199.0
+Woden,198.0
+Meservey,196.0
+Prescott,196.0
+Pilot Mound,194.0
+Volga,193.0
+Floris,193.0
+Hastings,192.0
+St. Marys,191.0
+Whitten,190.0
+Cumberland,190.0
+Decatur City,189.0
+Linn Grove,189.0
+Maysville,188.0
+Rickardsville,187.0
+Mitchell,187.0
+Stout,187.0
+Exline,186.0
+Clare,184.0
+Moorhead,184.0
+Chester,184.0
+Lidderdale,184.0
+Garden City,183.0
+Hanlontown,182.0
+Dixon,182.0
+Luther,181.0
+Drakesville,180.0
+Aurora,180.0
+Rembrandt,180.0
+Williamson,179.0
+Haverhill,179.0
+Paton,178.0
+McClelland,177.0
+Prairieburg,176.0
+Linden,176.0
+Coin,176.0
+Ferguson,176.0
+Garden Grove,176.0
+Cushing,175.0
+Clutier,171.0
+Randall,170.0
+Boxholm,169.0
+Patterson,168.0
+Blairsburg,168.0
+Magnolia,167.0
+Searsboro,166.0
+Castana,166.0
+Elberon,165.0
+Washta,164.0
+Kamrar,163.0
+Castalia,163.0
+Rake,161.0
+Franklin,161.0
+Stockton,160.0
+St. Olaf,160.0
+Meriden,159.0
+Bernard,159.0
+Rutland,158.0
+Brunsville,157.0
+Morrison,154.0
+Bristow,153.0
+Mount Union,153.0
+Homestead,152.0
+Larrabee,152.0
+Harvey,151.0
+Green Mountain,150.0
+Palmer,150.0
+Braddyville,150.0
+Westphalia,149.0
+Springbrook,149.0
+Luzerne,148.0
+St. Lucas,148.0
+Gravity,146.0
+Woodburn,145.0
+Baldwin,145.0
+Marne,144.0
+Delaware,144.0
+Mona,144.0
+Little Sioux,144.0
+Weldon,142.0
+Shambaugh,142.0
+Van Wert,142.0
+Vincent,141.0
+Melrose,141.0
+Rowan,140.0
+Clemons,140.0
+Harris,139.0
+Webster,138.0
+North Washington,138.0
+Oakland Acres,138.0
+Alexander,137.0
+Thurman,137.0
+Archer,137.0
+Havelock,137.0
+Rock Falls,136.0
+Spragueville,135.0
+Millersburg,135.0
+Lucas,134.0
+East Peru,134.0
+Blockton,133.0
+Welton,133.0
+Westfield,130.0
+Stanley,130.0
+Chapin,130.0
+Dawson,130.0
+Stone City,130.0
+Mount Auburn,129.0
+Oto,129.0
+Ayrshire,128.0
+Lanesboro,127.0
+Andover,127.0
+Derby,127.0
+Rose Hill,126.0
+Portsmouth,126.0
+Carpenter,126.0
+Arispe,124.0
+Centralia,123.0
+Willey,123.0
+Sharpsburg,123.0
+Houghton,123.0
+Masonville,123.0
+Bouton,122.0
+Reasnor,121.0
+Bridgewater,121.0
+Struble,121.0
+Duncan,119.0
+Ricketts,118.0
+Center Junction,118.0
+South Amana,117.0
+Tingley,117.0
+Gray,117.0
+Garber,117.0
+Fraser,116.0
+Nemaha,116.0
+Lincoln,116.0
+Brayton,112.0
+Toronto,111.0
+McIntire,110.0
+West Amana,109.0
+New Haven,109.0
+Buckeye,108.0
+Millerton,108.0
+New Liberty,108.0
+Hartwick,108.0
+Matlock,107.0
+Panorama Park,105.0
+Cylinder,105.0
+Arion,105.0
+Swaledale,105.0
+St. Joseph,104.0
+Geneva,103.0
+St. Donatus,103.0
+Percival,102.0
+Somers ,
+Rome,101.0
+Bradgate,98.0
+Turin,98.0
+Chillicothe,97.0
+Waterville,97.0
+Marysville,97.0
+Westwood,97.0
+Goodell,96.0
+Oyens,94.0
+Truesdale,93.0
+Swan,92.0
+Grant,91.0
+Hayfield,90.0
+Keomah Village,90.0
+Cromwell,89.0
+Macksburg,89.0
+Martinsburg,89.0
+Hansell,89.0
+Plover,87.0
+Sandyville,87.0
+Pleasant Plain,87.0
+Harper,86.0
+Unionville,86.0
+St. Paul,85.0
+Nodaway,84.0
+Osterdock,83.0
+Rochester,83.0
+West Chester,82.0
+Douds,81.0
+High Amana,81.0
+Shannon City,80.0
+Watkins,78.0
+Numa,78.0
+Promise City,78.0
+Ledyard,77.0
+North Buena Vista,76.0
+Redding,76.0
+Spring Hill,76.0
+Climbing Hill,76.0
+Greenville,75.0
+Northboro,73.0
+Randalia,73.0
+Tennant,70.0
+Kirkman,68.0
+Hardy,67.0
+Zwingle,66.0
+Bradford,66.0
+Clio,66.0
+Bentley,66.0
+Craig,65.0
+Dougherty,65.0
+Graf,64.0
+Plano,64.0
+Hamilton,64.0
+Vining,64.0
+Ralston,64.0
+Orchard,63.0
+Colwell,63.0
+Jackson Junction,62.0
+Scarville,62.0
+Curlew,61.0
+Gruver,61.0
+Chatsworth,61.0
+Dolliver,60.0
+Wiota,58.0
+Balltown,58.0
+Rathbun,57.0
+Sageville,55.0
+California Junction,55.0
+Udell,54.0
+Clayton,54.0
+Popejoy,54.0
+Weston,54.0
+Kinross,51.0
+Morley,51.0
+Thornburg,48.0
+Beaver,48.0
+River Sioux,48.0
+Varina,47.0
+Aredale,46.0
+Guernsey,46.0
+Carbon,46.0
+Buck Grove,45.0
+Rodney,45.0
+Knierim,45.0
+Galt,44.0
+Anderson,43.0
+Little Cedar,42.0
+Gibson,42.0
+Bevington,40.0
+Hayesville,40.0
+Toeterville,40.0
+Valeria,39.0
+Leando,38.0
+Imogene,37.0
+Yorktown,37.0
+Coburg,37.0
+St. Anthony,36.0
+Cotter,35.0
+Pleasanton,35.0
+Benton,34.0
+Rossie,33.0
+Thayer,33.0
+Rinard,33.0
+Frytown,33.0
+Bassett,32.0
+Conway,31.0
+East Amana,31.0
+Maloy,31.0
+Yetter,30.0
+Gillett Grove,30.0
+Miller,30.0
+Portland,30.0
+Ellston,30.0
+Dana,29.0
+Hutchins,29.0
+Delphos,27.0
+Corley,27.0
+Ottosen,26.0
+Coppock,26.0
+Rodman,22.0
+Owasa,22.0
+Mount Sterling,22.0
+Kent,22.0
+St. Benedict,22.0
+Aspinwall,20.0
+Jolley,19.0
+Beaconsfield,18.0
+Blanchard,18.0
+Hepburn,17.0
+Irvington,16.0
+Burchinal,15.0
+Bankston,15.0
+Berkley,12.0
+Bartlett,10.0
+Meyer,9.0
+Jacksonville,7.0
+Bolan,7.0
+Pioneer,4.0
+Durango,4.0
+Athelstan,4.0
+Elkport,4.0
+Le Roy,3.0
